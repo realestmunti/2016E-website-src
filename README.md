@@ -4,3 +4,6 @@ Makes the client playable with this SRC.
 You mostly need a private key. This can be changed in "game/qtkeylol5151515.pem".
 # Changing the Security
 Same as private key method, but you need to modifiy "GetAllowedSecurityVersions", and "GetAllowedMD5Hashes" to match your client MD5, and version.
+# Changing the FFlags (Fast Flags)
+This is in "Setting/QuietGet". Change the "ClientAppSettings" or "ClientSharedSettings" to your client's FFlags.n/
+Default FFlags are 2016L/2016E.
