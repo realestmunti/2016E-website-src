@@ -1,5 +1,5 @@
 # 2016E Website SRC
-Makes the client playable with this SRC. Mostly self made or stolen.
+Makes the client playable with this SRC. Mostly self-made or stolen.
 # Requirements
 A webserver, and PHP.
 # Changing the client to work
