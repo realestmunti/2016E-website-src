@@ -3,7 +3,7 @@ Makes the client playable with this SRC. Mostly self made or stolen.
 # Requirements
 A webserver, and PHP.
 # Changing the client to work
-No. Either self teach yourself, or use patching guides.
+No. Either self-teach yourself, or use patching guides.
 # Changing the Private Key
 You mostly need a private key. This can be changed in "game/qtkeylol5151515.pem".
 # Changing the Security
